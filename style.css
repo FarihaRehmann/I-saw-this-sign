@@ -1,4 +1,40 @@
-h1{
-    background-color: pink;
-    color: brown;
-}
+h1 {
+     font-family: Sekuya;
+     text-shadow: -20px crimson;
+ }
+
+ .links {
+     text-decoration: none;
+     background-color: black;
+     color: aliceblue;
+ }
+
+ * {
+     padding: 10px;
+     margin: 0px;
+     text-align: center;
+ }
+
+ body {
+     background-color: crimson;
+ }
+
+ .container {
+     width: 70%;
+     height: auto;
+     background-color: rgb(251, 252, 253);
+     margin: 30px auto;
+     text-transform: capitalize;
+ }
+ figure{
+    display: inline-block;
+    padding: 5px;
+    margin: 0px;
+ }
+ figcaption{
+    word-spacing: 0px;
+    padding: 0%;
+ }
+ ul{
+    display: inline-block;
+ }
